@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Thailand",
-	"Version": 1786452640,
+	"Version": 1786453148,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND",
 	"Tiers": [
@@ -342,7 +342,7 @@
 	"KillerOverride": [
 		{
 			"Name": "The Trapper",
-			"KillerNotes": "Map\nThe Thompson House",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
 				"13"
@@ -796,7 +796,7 @@
 		},
 		{
 			"Name": "The Huntress",
-			"KillerNotes": "Map\nCoal Tower 1\n",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
 				"0"
@@ -862,7 +862,7 @@
 		},
 		{
 			"Name": "The Cannibal",
-			"KillerNotes": "Map\nWreckers' Yard",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
 				"8"
@@ -1835,7 +1835,7 @@
 		},
 		{
 			"Name": "The Trickster",
-			"KillerNotes": "Map\nCoal Tower 1",
+			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -2096,7 +2096,7 @@
 		},
 		{
 			"Name": "The Onryo",
-			"KillerNotes": "Map\nMidwich Elementary School",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
 				"34"
@@ -2815,7 +2815,7 @@
 		},
 		{
 			"Name": "The Houndmaster",
-			"KillerNotes": "MAP\nCoal Tower 1",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
 				"0"
@@ -2971,7 +2971,7 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "MAP\nTreatment Theatre",
+			"KillerNotes": "",
 			"IsDisabled": true,
 			"Map": [
 				"20"
