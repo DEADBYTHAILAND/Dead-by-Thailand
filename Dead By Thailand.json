@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Thailand",
-	"Version": 1786453255,
+	"Version": 1786530854,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND",
 	"Tiers": [
@@ -1548,7 +1548,7 @@
 		},
 		{
 			"Name": "The Deathslinger",
-			"KillerNotes": "",
+			"KillerNotes": "Map\nWrecker's Yard",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -2208,7 +2208,8 @@
 				558
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2444,7 +2445,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				7
+				7,
+				30
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2658,7 +2660,7 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Map\nDead Dawg Saloon",
+			"KillerNotes": "ห้ามเปิดหีบสมบัติของ The Lich โดยเด็ดขาด\nDo not open The Lich's treasure chest under any circumstances.\n\nMap\nDead Dawg Saloon",
 			"IsDisabled": false,
 			"Map": [
 				"33"
