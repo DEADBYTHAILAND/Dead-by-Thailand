@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Thailand",
-	"Version": 1786530854,
+	"Version": 1786608853,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND",
 	"Tiers": [
@@ -2410,8 +2410,8 @@
 		},
 		{
 			"Name": "The Singularity",
-			"KillerNotes": "MAP\nWracker's Yard",
-			"IsDisabled": false,
+			"KillerNotes": "",
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
